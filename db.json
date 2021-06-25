@@ -1,0 +1,11 @@
+{
+  "Produtos": [
+    {
+      "id": 1,
+      "nome": "café",
+      "descricao": "Colhido nas melhores terras, 1Kg",
+      "quantidade": 23,
+      "valor_unitario": 8
+    }
+  ]
+}
